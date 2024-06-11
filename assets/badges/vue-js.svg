@@ -1,0 +1,5 @@
+<svg width="96" height="30" viewBox="0 0 64 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect fill="#404040" width="64" height="20" rx="2"/>
+  <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2IDIyMSIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiPjxwYXRoIGQ9Ik0yMDQuOCAwSDI1NkwxMjggMjIwLjggMCAwaDk3LjkyTDEyOCA1MS4yIDE1Ny40NCAwaDQ3LjM2WiIgZmlsbD0iIzQxQjg4MyIvPjxwYXRoIGQ9Im0wIDAgMTI4IDIyMC44TDI1NiAwaC01MS4yTDEyOCAxMzIuNDggNTAuNTYgMEgwWiIgZmlsbD0iIzQxQjg4MyIvPjxwYXRoIGQ9Ik01MC41NiAwIDEyOCAxMzMuMTIgMjA0LjggMGgtNDcuMzZMMTI4IDUxLjIgOTcuOTIgMEg1MC41NloiIGZpbGw9IiMzNTQ5NUUiLz48L3N2Zz4="/>
+  <text x="24" y="14" textLength="35" fill="#fff" font-family="Verdana,sans-serif" font-size="11px" text-rendering="geometricPrecision">Vue.js</text>
+</svg>

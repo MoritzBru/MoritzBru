@@ -1,0 +1,5 @@
+<svg width="78" height="30" viewBox="0 0 52 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect fill="#404040" width="52" height="20" rx="2"/>
+  <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NTIgNTIwIj4KICA8cGF0aCBmaWxsPSIjMGM3M2I4IiBkPSJNNDEgNDYwTDAgMGg0NTFsLTQxIDQ2MC0xODUgNTIiLz4KICA8cGF0aCBmaWxsPSIjMzBhOWRjIiBkPSJNMjI2IDQ3MmwxNDktNDEgMzUtMzk0SDIyNiIvPgogIDxwYXRoIGZpbGw9IiNlY2VkZWUiIGQ9Ik0yMjYgMjA4SDk0bDUgNTdoMTI3em0wLTExNEg4NGw1IDU2aDEzN3ptMCAyNjFsLTEyNC0zMyA3IDYwIDExNyAzMnoiLz4KICA8cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjI2IDI2NWg2OWwtNyA3My02MiAxN3Y1OWwxMTUtMzIgMjYtMjg4SDIyNnY1Nmg4MGwtNiA1OGgtNzR6Ii8+Cjwvc3ZnPg=="/>
+  <text x="24" y="14" textLength="23" fill="#fff" font-family="Verdana,sans-serif" font-size="11px" text-rendering="geometricPrecision">CSS</text>
+</svg>

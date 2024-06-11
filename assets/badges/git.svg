@@ -1,0 +1,5 @@
+<svg width="69" height="30" viewBox="0 0 46 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect fill="#404040" width="46" height="20" rx="2"/>
+  <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+CiAgPHBhdGggZD0iTTI1MS4xNyAxMTYuNiAxMzkuNCA0LjgyYTE2LjQ5IDE2LjQ5IDAgMCAwLTIzLjMxIDBsLTIzLjIxIDIzLjIgMjkuNDQgMjkuNDVhMTkuNTcgMTkuNTcgMCAwIDEgMjQuOCAyNC45NmwyOC4zNyAyOC4zOGExOS42MSAxOS42MSAwIDEgMS0xMS43NSAxMS4wNkwxMzcuMjggOTUuNHY2OS42NGExOS42MiAxOS42MiAwIDEgMS0xNi4xMy0uNTdWOTQuMmExOS42MSAxOS42MSAwIDAgMS0xMC42NS0yNS43M0w4MS40NiAzOS40NCA0LjgzIDExNi4wOGExNi40OSAxNi40OSAwIDAgMCAwIDIzLjMyTDExNi42IDI1MS4xN2ExNi40OSAxNi40OSAwIDAgMCAyMy4zMiAwbDExMS4yNS0xMTEuMjVhMTYuNSAxNi41IDAgMCAwIDAtMjMuMzMiIGZpbGw9IiNERTRDMzYiLz4KPC9zdmc+Cg=="/>
+  <text x="24" y="14" textLength="17" fill="#fff" font-family="Verdana,sans-serif" font-size="11px" text-rendering="geometricPrecision">Git</text>
+</svg>

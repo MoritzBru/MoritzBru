@@ -1,0 +1,5 @@
+<svg width="96" height="30" viewBox="0 0 64 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect fill="#404040" width="64" height="20" rx="2"/>
+  <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTEiIGhlaWdodD0iODAiIHZpZXdCb3g9IjAgMCA5MSA4MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzkwNl8xODM5KSI+CjxwYXRoIGQ9Ik01Ni45Njg2IDBIOTAuNDMxOFY4MEw1Ni45Njg2IDBaIiBmaWxsPSIjRUIxMDAwIi8+CjxwYXRoIGQ9Ik0zMy40NjMyIDBIMFY4MEwzMy40NjMyIDBaIiBmaWxsPSIjRUIxMDAwIi8+CjxwYXRoIGQ9Ik00NS4xODIxIDI5LjQ2NjhMNjYuNTE5OSA4MC4wMDAySDUyLjU2NTdMNDYuMTk4MiA2My45NDYxSDMwLjYxODJMNDUuMTgyMSAyOS40NjY4WiIgZmlsbD0iI0VCMTAwMCIvPgo8L2c+CjxkZWZzPgo8Y2xpcFBhdGggaWQ9ImNsaXAwXzkwNl8xODM5Ij4KPHJlY3Qgd2lkdGg9IjkwLjQzMTgiIGhlaWdodD0iODAiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg=="/>
+  <text x="24" y="14" textLength="35" fill="#fff" font-family="Verdana,sans-serif" font-size="11px" text-rendering="geometricPrecision">Adobe</text>
+</svg>

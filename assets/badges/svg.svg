@@ -1,0 +1,5 @@
+<svg width="81" height="30" viewBox="0 0 54 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect fill="#404040" width="54" height="20" rx="2"/>
+  <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMzAwIDMwMCI+PGcgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjM4LjAwOSI+PGcgaWQ9InN2Z3N0YXIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE1MCAxNTApIj48cGF0aCBpZD0ic3ZnYmFyIiBmaWxsPSIjZmZiMTNiIiBkPSJNLTg0LjE0OS0xNS44NTFhMjIuNDE3IDIyLjQxNyAwIDEgMCAwIDMxLjcwMkg4NC4xNWEyMi40MTcgMjIuNDE3IDAgMSAwIDAtMzEuNzAyWiIvPjx1c2UgeGxpbms6aHJlZj0iI3N2Z2JhciIgdHJhbnNmb3JtPSJyb3RhdGUoNDUpIi8+PHVzZSB4bGluazpocmVmPSIjc3ZnYmFyIiB0cmFuc2Zvcm09InJvdGF0ZSg5MCkiLz48dXNlIHhsaW5rOmhyZWY9IiNzdmdiYXIiIHRyYW5zZm9ybT0icm90YXRlKDEzNSkiLz48L2c+PC9nPjx1c2UgeGxpbms6aHJlZj0iI3N2Z3N0YXIiLz48L3N2Zz4="/>
+  <text x="24" y="14" textLength="25" fill="#fff" font-family="Verdana,sans-serif" font-size="11px" text-rendering="geometricPrecision">SVG</text>
+</svg>
